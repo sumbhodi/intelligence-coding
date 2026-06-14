@@ -180,4 +180,5 @@ The standard is visible in one example.
 ---
 
 *gowf — go with flow.*
+*the joke version: [log_021.md](log_021.md) — Three Humanoids Walk Into a Bar.*
 *the full argument, all fourteen parts: [Log-033-intelligence-coding.md](Log-033-intelligence-coding.md)*

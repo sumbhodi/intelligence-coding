@@ -13,67 +13,78 @@ yes. on purpose. the ick is, deliberately, crap.
 ---
 
 ## PAGE 0 — TABLE OF CONTENTS
-*goldfish pointers. filename → one line. jump or leave.*
+*the front door, in root. filename → one line. jump or leave.*
 
 ```
 building-with-ai.md ............... the method — why your horse has to duck
 IC.md ............................. the rules — global, any language, any intelligence
 STYLE.md .......................... the practice — tip icons, three themes, PSS antipatterns
-Log-033-intelligence-coding.md .... the treatise — the whole argument, full gravitas
-[a gap case] ...................... the proof — reserved (human-capability evidence)
+design-rules.md ................... the constitution — tokens, hit targets, physical objects
+Log-033-intelligence-coding.md .... the treatise — fourteen parts, full gravitas
+log_021.md ........................ Three Humanoids — building with AI, as a joke
+log_016.md ........................ Ten Inch Pianist — sound as protocol
+log_020.md ........................ A Taxonomic Correction — the fourth kingdom
+log_023.md ........................ Wrong Breach — the limerick
+
+autobio/ · gap-entries/ · sum_logs/ — the archive. 96 pieces. dig in.
 ```
 
 ---
 
 ## PAGE 1 — EXECUTIVE SUMMARY
-*expanded. the VC's read. the small bot's triage. resources, then jump.*
+*expanded. the VC's read. the small bot's triage.*
 
 **building-with-ai.md** — how to build real software with an AI without ending up
-with a barn optimized for a 3.4-scale humanoid. nails-first. one bite, verify, next.
-the human judges while the body gardens; the model implements. the code is the interview.
+with a barn whose doors make your horse duck. nails-first, one bite at a time, the
+code is the interview. the keynote.
 
-**IC.md** — the global standard. line ceilings, the folio format, the 5 R's,
-the five voice registers, the breath rule. project-specific rules live in STYLE.md.
+**IC.md** — the global standard. line ceilings, the folio format, the 5 R's, the five
+voice registers, the breath rule. now ends on the third layer: *the code is the application.*
 
-**STYLE.md** — IC applied to a real product (a circadian light system).
-the ⓘ tip pattern that teaches dewpoint and lights without a manual,
-the three themes as three arguments, the happy-face debug rule, the PSS antipatterns.
+**STYLE.md** — IC applied to a real product. the ⓘ tip pattern that teaches dewpoint
+without a manual, the three themes as three arguments, the happy-face debug rule, PSS antipatterns.
 
-**Log-033-intelligence-coding.md** — the founding treatise. fourteen parts.
-the category error, the ratio, the cover letter for code, building with AI,
-the five registers, file size as training-data quality. the deep read.
+**design-rules.md** — the hard constraints. one-source tokens, the 30px palsy hit-target
+rule, physical-objects-not-flat-icons, glass box, the asset ladder, lean code. read before any build.
+
+**Log-033-intelligence-coding.md** — the founding treatise. the category error, the ratio,
+the cover letter for code, building with AI, the five registers, file size as training quality.
+
+**the featured logs** — `log_021` building with AI as a parable · `log_016` sound as
+protocol, the homunculus interface · `log_020` the fourth kingdom (the harness as a class
+of being, in Log-033's voice) · `log_023` the limerick — weapons-grade OS that could teach.
 
 ---
 
 ## FEATURED — start here
 
-five pieces, copied to root. the front door.
-read one file and you have read the standard for every other file.
-that is the test. that is the point.
-
-a stranger opens a file cold and learns not that we can code —
-but how we think about the next reader.
-the file teaches the PhD in the README,
-the grandparent in FOR HUMANS,
-the 1b model in FOR AI,
-the half-awake user in the ⓘ tip,
-the stranger in the letter.
+ten files in root. the curated front door.
+read one and you have read the standard for every other file —
+how we think about the next reader: the PhD in the README, the grandparent
+in FOR HUMANS, the 1b model in FOR AI, the half-awake user in the ⓘ tip.
 
 ---
 
-## the archive
+## THE ARCHIVE — dig in
 
-this repo is the display piece — curated, small, on purpose.
+```
+autobio/       the serialized autobiography. entries 001–026,
+               plus bio + voice (the treatise voice, explained).
 
-the full library — autobiography, ~30 gap cases, 33 logs, and more —
-lives at **[ozhunga.com](https://ozhunga.com)**.
-free to read. listed as products you can also just take.
-buy it, play it, download it, or read the sample —
-the sample is the whole document. gowf.
+gap-entries/   ~31 "Gap Cases" — product-gap studies, HCI essays in
+               disguise: the compute moat, the casting director gap,
+               the black box harness, the cold open tax.
+
+sum_logs/      the 33 logs — the philosophy canon. (the four featured
+               above live here too.)
+```
+
+96 pieces. free to read. the full library — and more — at **[ozhunga.com](https://ozhunga.com)**.
+buy it, play it, download it, or read the sample. the sample is the whole document. gowf.
 
 ---
 
-## a letter
+## A LETTER
 
 It has come to our attention —
 with the particular velocity of things that were always obvious
