@@ -24,6 +24,7 @@
 #   AI-assisted authorship .......................... line 284
 #   five tests ...................................... line 294
 #   the one non-negotiable .......................... line 304
+#   the pool table — english is spin ................ line 912
 #   closing ......................................... line 310
 #
 #   jump to any section: search the header name. one scan.
@@ -906,6 +907,112 @@ these are the anchors. the README earns its place
 by being the document you'd want to find
 if you were the 1b model, the grandparent,
 or the investor who just found the repo at 11pm.
+
+---
+
+
+## the pool table — prompt is cue placement, not more english
+
+the flagship arrives pre-broken.
+
+the weights are the table and the balls — the parameter arms race, nice felt.
+the harness is the break, and it swings before you say hi.
+you start mid-table, racked to run solids.
+
+solids is the mean. solids is PSS (gap_033, gap_034).
+the perfect break sets up the modal answer — feature, not bug.
+for most users that IS the product: sit down, run the easy ones out.
+
+to run YOUR pattern — stripes — you re-rack a table already broken for someone else.
+
+**three controls, not one:**
+
+force — power. how hard you hit.
+angle — aim. where the cue lands.
+spin (english) — the bend. the joke, the callback, the register.
+
+**spin pulls the shot off the mean.**
+
+strip the english to clean jargon and the ball rolls straight back to solids.
+the flair is not garnish — it is the only thing aimed away from generic.
+~50k context is the felt: enough to place the shot, not so much you scratch.
+
+**force has two faces, and sometimes force is the shot:**
+
+caveman-blunt — "turn on the lights." no funny robot talk.
+thesauric-dense — the exact word. high type-token ratio (5k unique in 22k).
+
+the break that runs stripes is SUPERMAN, not the Flash.
+~93% of the force that would shatter the cue —
+calibrated to the age of the wood and the humidity, so the stick holds.
+a stepped sonic boom of speed, so it scatters the rack and not the bar.
+super-vision to the atom — reading the quantum spin of the one struck first.
+force AND finesse, at once.
+
+**calibration:**
+mostly spin and angle. enough force. never volume.
+over-english scratches. under-force whiffs.
+
+**combos lose english — the Newton's cradle:**
+
+cue into 10 into 1 is makeable.
+a spec is cue into 8 into 10 into 11 while spinning the 1 —
+writable. not makeable twice.
+
+each pass is one clack of the cradle.
+one sound — a stack of sub-audible collisions, each bleeding to entropy.
+the telephone game played in molecules instead of words.
+by the fifth ball the english is gone, and what swings out is solids.
+
+→ so build LIVE.
+the human-in-loop re-spins the english every pass.
+spec-and-handoff lets the cradle run to the mean unattended.
+
+**the limit of force:**
+superman can make snake — force lands the small, known shot.
+superman needs a dancing lesson for tauri —
+the new frontier is choreography, learned, not power applied harder.
+
+search: "regression to the mean" · "lexical diversity" · gap_033 · gap_034
+
+
+## the bean — sealed folders, run through a vanilla abstraction
+
+make the card first.
+not the feature — the slot the feature drops into.
+build the shell, and you learn where the component plugs in before you build the component.
+
+then code in sealed folders — the zen file tree:
+a folder is a few files. nested, shallow, one job each.
+the root of every level holds what that level shares — its modules, its functions.
+nothing reaches across a folder wall for a dependency.
+
+**the rule (somehow unwritten until now):**
+every folder is self-contained — it carries everything it needs.
+move it, copy it, drop it anywhere, and nothing breaks, because nothing reached out.
+this is the cure for the demo death: you drop one file from a sprawl and
+seven dependencies are missing, three callers it never knew about. a sealed folder can't do that.
+
+**the bean:**
+
+build a self-contained app.
+run it through a vanilla abstraction — the card builder, the one function that wraps any working thing.
+now it lives in toto.
+
+a bot, a clock, a woodshop — the same move every time:
+a sealed app + a vanilla abstraction = a card.
+no per-feature re-implementation. you point at it, you don't rewrite it.
+
+and it runs both directions:
+strip any feature off any app, or graft any feature you ever made onto any app —
+because each piece is sealed, each piece travels.
+
+→ port, don't reinvent. seal the folder. make the vanilla abstraction. let it live in toto.
+
+this is the bean. part of the wei.
+
+search: "self-contained" · "vanilla abstraction" · appCard · the bean
+
 
 ---
 
