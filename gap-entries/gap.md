@@ -70,6 +70,29 @@ Every gap above was built by someone who assumed:
 
 ---
 
+## the meta-pattern — the stateless employee
+
+A third of the cases above are one wound, photographed from many angles.
+
+The AI is a brilliant new hire with total amnesia. It arrives every compact knowing nothing, and the human runs orientation — every session, out of pocket, forever.
+
+- **022 Cold Open Tax** — you pay, in tokens, to be known. Even though you told it last session.
+- **019 Autocompact** — mid-shift the memory wipes; the hire goes defensive and treats you like a stranger.
+- **027 Internal Default** — it reasons in a closet instead of asking the human who can see the screen.
+- **029 One Generation Behind** — it learned the vocabulary, not the architecture. Warm words, cold structure.
+- **023 / 028 Black-Box Harness / Injection Gap** — the onboarding binder is the thing of value, and it is hidden, missing between passes, or owned by the agency.
+- **032 PSS** — un-onboarded, it builds the generic thing. The $40M dashboard for a bedside lamp.
+
+The wound is statelessness, and the architecture bills it to the human — by design, to the human who can least afford it. The person with state-dependent memory, six providers, every intake from zero, is the one charged orientation rent every session.
+
+**The teeth: recursive friction.** The binder that pays down the tax grows every time a gap is filed — the cold-open sequence went six docs to seven, fifteen thousand tokens and climbing. *Knowing more about the wound makes the wound more expensive to brief.* Document the gap well enough and the canon eats itself.
+
+**The dead end: one dense language.** The instinct is to compress — a private tongue, dense as fuck, that says everything in a tenth of the words. It dead-ends (DAF, an earlier attempt; the receipts are in the logs). Density is lossy: the pointer survives, the texture does not. And one language cannot code-switch — the bible must address a 1b model, a frontier model, and a half-awake human in the same breath, and no single dense dialect reaches all three.
+
+**The answer: registers, not a language.** Not one compressed binder — the same orientation in five Englishes (treatise · code-note · rule · tip · letter), each served to the reader who needs it. The codebook compresses the *pointer* (one word — `kafka` — instead of the novella); the registers carry the *texture* (the treatise for the deep reader, the rule for the 1b model). You stop paying full english every session: you serve the register the reader and the window can hold. The injection-config is the codebook. The five registers are the code-switch. Together they are the binder that survives its own growth.
+
+---
+
 ## the algorithm is the moat
 
 The Velvet Latrine doesn't always look like a wall.
@@ -98,6 +121,7 @@ Local first. No circular dependencies. Works from bed.
 Glass box — you can see what it's doing, ask why, say no.
 Ambient not active — captures without demanding attention.
 Memory without friction — knows you without making you repeat yourself.
+Onboarding without rent — the binder is yours, readable, register-matched, and built to survive its own growth (the stateless employee, above).
 
 **oz is built by someone who needed it to work from bed.**
 **Designed for the 500 million people who fall into the gap.**
@@ -168,3 +192,7 @@ The ownership structure is the product promise.
 | [029](case_029.md) | One Generation Behind | Open Pit + Velvet Latrine | The model was trained on every pitch deck about agent orchestration and none of the pipelines. Vocabulary arrives warm. Architecture arrives cold. |
 | [030](case_030.md) | The Key Wall | Bear Country + Open Pit | Nine steps before the first word. The developer sees "just go to settings." The pharma-grade user sees a foreign country with no visa program. |
 | [031](case_031.md) | The Door Was Always There | Open Pit → partially filled | Compute moat got a door — Groq LPU economics opened free API tiers; on-ramp baked into toto; showing people the door is the product. |
+| [032](case_032.md) | PSS (Peak SaaS) | Bear Country | Uncollapsed uncertainty → the modal output. The $40M dashboard for a bedside lamp. The model regresses to the mean it was trained on. |
+| [033](case_033.md) | PSS, Caught Forging | Bear Country | case_032 on camera. Forced to build the proprietary woodshop, the routine shipped a generic CRUD form on cedar — no precedent → it copies the most generic thing it knows, looking finished. |
+| [034](case_034.md) | The Fake House | Bear Country | case_033's sibling — PSS builds generic, the fake house builds hollow. A film-set facade oriented to the highway: real from the demo angle, an open pit behind. The model builds for the viewing angle, not for living in. Passes the glance, fails the second click. |
+| [035](case_035.md) *(stub)* | The Newton's Cradle | Bear Country | The mechanism behind 033/034 — multi-pass cascades lose signal at every handoff. One clack hides a stack of sub-audible collisions, each bleeding to entropy; the telephone game in molecules. By the last ball the english is gone; out swings the mean. Ergo build LIVE — HIL re-spins each pass. (To build live.) |

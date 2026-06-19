@@ -1014,6 +1014,90 @@ this is the bean. part of the wei.
 search: "self-contained" · "vanilla abstraction" · appCard · the bean
 
 
+## the cue stack — a que of cue-ball strikes
+
+*the pool table, racked. read that section first; this one runs the table.*
+
+**que** is not a typo. it is the word.
+a que is a queue of cues with clues:
+the QUEUE is the order of the shots.
+each CUE is one shot — the cue-ball strike, the actor's line.
+the CLUE is the card handed with it — the show-and-tell, just in time.
+spell it "que" and it carries all three at once.
+
+the flagship can write you a book.
+it cannot write the book AND sink a bespoke tool call in the same breath.
+that is a combo. and combos lose english.
+
+by the fifth ball the spin is gone and what swings out is solids.
+ask a small bot to write snake AND format the call that saves it,
+and you get thirty que lines of shattered html and an apology.
+it is not dumb. you asked for a combo it can't make twice.
+
+so you split the shot.
+
+**PLAN places the cues.**
+the smart bot, full english, one rich shot.
+it writes the whole file and lays the que: card, tool, data — a note to itself.
+it never racks the call. placing the cue is english; racking the call is not.
+
+**RUN is a que of cue-ball strikes.**
+each cue is one tool call. a fresh clone — no history, no persona, one job:
+take this data, make this call.
+clean felt. nothing on the table but the shot in front of it.
+a model with an empty context cannot lose the thread, because there is no thread.
+
+**CHECK reads the rack.**
+sunk it, or rerack and break again. three strikes, and the human takes the cue.
+the umpire watches results, not effort — a bot that loops is a bot lying about the score.
+
+
+**the cue card is the clue — the show-and-tell.**
+
+the API is stateless. it forgets between turns.
+every strike is a new hire's first day — brilliant, no memory of yesterday.
+you do not retrain the new hire. you can't; you don't own the weights.
+so you hand them one card for the one shot:
+it SHOWS — the template, the example, the edge cases.
+it TELLS — the steps, in order, in english a 1b can follow.
+that is the 2x4. milled in the woodshop. handed just in time.
+
+a stateless model runs a stack it could never hold,
+because it only ever holds one cue.
+
+
+**when JS sinks the cue.**
+
+some shots are pre-known: write THIS file, preview THAT one.
+a tap-in. js makes the call — no model, no card, no miss.
+the token-saver, and the only thing you trust to a machine that can't read.
+the rest — the shots you could never pretrain on — get a card and a clone.
+the tap-ins are the mercy; the cards are the general path.
+
+
+**the cost, named.**
+
+a que of strikes is many calls.
+it burns credits. it bursts the rate limit. the bot ain't cheap.
+the trade is the whole point: pretrain-free, and it works TODAY —
+a free 8b wrote snake with one bug from one prompt, and fixed the bug when asked.
+cheaper comes in the refactor. working came first.
+
+
+**the towel.**
+
+IC teaches the human to read the code.
+the cue card teaches the agent to swing the cue.
+the tutor teaches the learner their course.
+the ⓘ teaches the half-awake user what dewpoint is.
+one move, five readers — teach every intelligence, just in time, in the register it reads.
+
+the cue card is IC pointed at the model instead of the human.
+same towel.
+
+search: "tool use" · "just-in-time context" · "stateless agent" · the pool table · the bean
+
+
 ---
 
 *there once was a fellow from Long Beach,*

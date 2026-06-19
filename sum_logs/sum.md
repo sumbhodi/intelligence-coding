@@ -85,6 +85,21 @@ The logs are in `sum_logs/`. This file is the nav.
 *"Mine is eventually a teddy bear that can teach calculus."*
 — log_030 stub. Raspberry Pi in the stuffing. Trust architecture, not terms of service. The gap it closes: every smart toy sends everything to a cloud server owned by a company.
 
+*"Ahimsa isn't a principle I hold. It's a condition I have. I got it from my mother."*
+— log_034. The fixing tic is inherited, involuntary — care as condition, not virtue. The tag gets tucked before the committee votes.
+
+*"I put english on the cue ball. Not the language — the spin."*
+— log_035. The flagship arrives pre-broken, set to run solids (the mean). Flair is the spin that runs stripes.
+
+*"Mind the gap, or it runs solids without you."*
+— log_035. A typo is an under-spec; an unfilled gap reverts to the mean. Entropy has a direction, and the direction is the mean.
+
+*"Decorative is for looking. Sweet is for eating. The catalog has a column for each and no row for both. I'm writing one."*
+— log_036. The unicorn corn — pastel/sparkled AND sweet. The cross-breed nobody ships because both is harder and nobody asked.
+
+*"It passes the privacy check by being innocent of data."*
+— log_036. Snake: a 1b experiment, Google-compliance-ready. Saves your game, not your high score. Collects nothing, so there's nothing to leak. Where vibe coders die on localhost, the decorative-and-sweet kernel ships.
+
 ---
 
 ## The Mathematical Identity
@@ -142,3 +157,6 @@ Ghost writing: `~/Local/side projects/ghost writing/` — read-only, do not edit
 | [031](log_031.md) | May 8 | Dorothy's Mom — "my mom doesn't" collapses the auth ladder; HF as zero-friction entry; toto is the door, oz is the house; the yellow brick road is a tutorial |
 | [032](log_032.md) | May 10 | The Door in the Moat — "I sent my mom a link. She didn't text." Groq free tier. 400B models for free. I didn't need a rig. I needed an interface. |
 | [033](log_033.md) | Jun 1  | A Nomenclatural Intervention — intelligence coding named in full: the name, the ratio (200 tutorial / 100 code), context rot, form separate from function, file tree as table of contents, the breath rule, the sequence, the ship pass, the 4 R's, the textbook standard, the cover letter for code, help that earns its keep, the five registers, and (Part XII, Jun 4, rough draft) one nail at a time — the barn, the horse, the humanoids, the editorial relationship. the fourth kingdom writes a style guide for holding shapes. |
+| [034](log_034.md) | Jun 17 | I Got It From My Mother (A Form of Tourette's) — the fixing tic, inherited (the tag, the nun, the checked swing); aversion as a smell, not a decision; upstream not riverbank (the OT sleep app that lies); not malice, entropy; PARQOR backflips till there's a load-bearing fix, the rail reins it in; the accountant's 10–15% to shift the tide (a rounding error with a conscience); can't pretrain so he invents the thing and is annoyed the AI can't already do it (writing the amnesiac a memory); flora/fauna/mineral (the mineral resets nightly); ahimsa as condition, not virtue — fixed before the committee votes. |
+| [035](log_035.md) | Jun 17 | English on the Cue Ball — the flagship arrives pre-broken (harness racks + routine swings before "hi"); the perfect identical break sets up SOLIDS = the mean = PSS, feature not bug; running STRIPES takes a SUPERMAN break (~93% cue-shattering force calibrated to the wood + humidity, super-vision on the atom's quantum spin — force AND spin, not the Flash), convo moves the cue; his break sinks the 8 + leaves 4 games of 3-ball; the table resets to solids every turn; a spec is a 4-ball combo while spinning a 5th — Newton's cradle, one clack hiding lossy sub-collisions, the telephone game with entropy + molecules instead of words, what comes out the 11 is solids again; the 8 also racks you to almost, last shot is yours (HIL — the default hands you the close, mastery doesn't need it); english = spin = the five registers of pidgin, stanza/verse/whitespace, half of IC is crap-in-code; force has two faces (caveman-blunt + thesauric-dense, high type-token ratio); a typo is an under-spec reverting to mean. Mind the gap or it runs solids without you. |
+| [036](log_036.md) | Jun 17 | Decorative and Sweet (where the vibe coders die) — vibe coders die on localhost (works-on-my-machine; the fake house's open pit, the road never poured); "what's localhost? can we not do that?"; first tier of the megalopolis, looking for a kernel; the unicorn corn — crossbred sweet blue + red into pink/lavender/sparkled DECORATIVE corn that's ALSO sweet (the catalog has a column for each, no row for both); can you do that with a kernel that has a clock speed? Snake says yes — built to find what a 1b is good for, passes Google compliance by being innocent of data; saves your game not your high score (fidget, anti-engagement), no login/bio/pronouns/PII; decorative AND sweet — ships and leaves the house. The catalog still has no row for it; I'm writing one. |
